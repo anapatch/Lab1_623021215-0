@@ -1,1 +1,5 @@
-“Learn to enjoy every minute of your life.” 
+“Learn to enjoy every minute of your life.”
+
+“Be happy now.”
+
+Secondfile.html 
